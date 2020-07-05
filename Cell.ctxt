@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Cell
+comment0.text=\n\ Brief\ description\n\ @author\ \ \ \ \ \ Van\ Anh\ Tran\ <102421412>\n\ @version\ \ \ \ \ 1\ \ \ \ \ \ \n\ Purpose\ \ \ \ \ \ Project\ 2\:\ Snakes\ &\ Ladders\ Game\ -\ Cell\ class\ to\ represent\ the\ cell\ (in\ the\ board)\ object\n
+comment1.params=index
+comment1.target=Cell(int)
+comment1.text=\n\ Purpose\:\ Constructor\n\ @param\ index\ (int)\n
+comment2.params=
+comment2.target=int\ getValue()
+comment2.text=\n\ Purpose\:\ Return\ cell's\ value\n\ @return\ value\ (int)\n
+comment3.params=player
+comment3.target=void\ setColour(Player)
+comment3.text=\n\ Purpose\:\ Set\ colour\ for\ cell\n\ @param\ player\ (Player)\n
+comment4.params=player
+comment4.target=void\ resetColour(Player)
+comment4.text=\n\ Purpose\:\ Reset\ colour\ for\ cell\ (back\ to\ initialised\ colour)\n\ @param\ player\ (Player)\n
+numComments=5

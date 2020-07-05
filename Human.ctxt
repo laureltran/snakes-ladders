@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Human
+comment0.text=\n\ Brief\ description\n\ @author\ \ \ \ \ \ Van\ Anh\ Tran\ <102421412>\n\ @version\ \ \ \ \ 1\ \ \ \ \ \ \n\ Purpose\ \ \ \ \ \ Project\ 2\:\ Snakes\ &\ Ladders\ Game\ -\ Human\ class\ to\ represent\ Human\ object,\ extends\ Player\ class\n
+comment1.params=
+comment1.target=Human()
+comment1.text=\n\ Constructor\n
+comment2.params=
+comment2.target=void\ reset()
+comment2.text=\n\ Method\ to\ reset\ all\ attributes\ to\ initial\n
+numComments=3

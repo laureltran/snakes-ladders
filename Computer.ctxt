@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Computer
+comment0.text=\n\ Brief\ description\n\ @author\ \ \ \ \ \ Van\ Anh\ Tran\ <102421412>\n\ @version\ \ \ \ \ 1\ \ \ \ \ \ \n\ Purpose\ \ \ \ \ \ Project\ 2\:\ Snakes\ &\ Ladders\ Game\ -\ Computer\ class\ to\ represent\ Computer\ object,\ extends\ Player\ class\n
+comment1.params=
+comment1.target=Computer()
+comment1.text=\n\ Constructor\n
+comment2.params=
+comment2.target=void\ reset()
+comment2.text=\n\ Method\ to\ reset\ all\ attributes\ to\ initial\n
+numComments=3

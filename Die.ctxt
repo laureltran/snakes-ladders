@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Die
+comment0.text=\n\ Brief\ description\n\ @author\ \ \ \ \ \ Van\ Anh\ Tran\ <102421412>\n\ @version\ \ \ \ \ 1\ \ \ \ \ \ \n\ Purpose\ \ \ \ \ \ Project\ 2\:\ Snakes\ &\ Ladders\ Game\ -\ Die\ class\ to\ represent\ die\ object\n
+comment1.params=
+comment1.target=Die()
+comment1.text=\n\ Constructor\n
+comment2.params=
+comment2.target=int\ roll()
+comment2.text=\n\ Method\ to\ roll\ the\ die\n\ @return\ intValue\ (int)\n
+comment3.params=
+comment3.target=void\ reset()
+comment3.text=\n\ Method\ to\ reset\ all\ attributes\ to\ initial\n
+numComments=4

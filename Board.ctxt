@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\n\ Brief\ description\n\ @author\ \ \ \ \ \ Van\ Anh\ Tran\ <102421412>\n\ @version\ \ \ \ \ 1\ \ \ \ \ \ \n\ Purpose\ \ \ \ \ \ Project\ 2\:\ Snakes\ &\ Ladders\ Game\ -\ Board\ class\ to\ represent\ the\ board\ object\n
+comment1.params=
+comment1.target=Board()
+comment1.text=\ \n\ Purpose\:\ Constructor\n
+comment2.params=index
+comment2.target=Cell\ createCell(int)
+comment2.text=\n\ Purpose\:\ Create\ cell\ with\ text,\ indicate\ which\ cells\ are\ ladder/snake\ start/end\n\ @param\ index\ (int)\n\ @return\ cell\ (Cell)\n
+comment3.params=index\ arr\ string
+comment3.target=java.lang.String\ setCellText(int,\ int[],\ java.lang.String)
+comment3.text=\n\ Purpose\:\ Set\ text\ for\ cell\n\ @param\ index\ (int)\n\ @param\ arr\ (int[])\n\ @param\ string\ (String)\n\ @return\ text\ (String)\n
+comment4.params=minCell\ maxCell
+comment4.target=javax.swing.JPanel\ drawOddRows(int,\ int)
+comment4.text=\n\ Purpose\:\ Draw\ GUI\ of\ the\ rows\ with\ odd\ index\n\ @param\ minCell\ (int)\n\ @param\ maxCell\ (int)\n\ @return\ row\ (JPanel)\n
+comment5.params=minCell\ maxCell
+comment5.target=javax.swing.JPanel\ drawEvenRows(int,\ int)
+comment5.text=\n\ Purpose\:\ Draw\ GUI\ of\ the\ rows\ with\ even\ index\n\ @param\ minCell\ (int)\n\ @param\ maxCell\ (int)\n\ @return\ row\ (JPanel)\n
+comment6.params=
+comment6.target=Cell[]\ getCells()
+comment6.text=\n\ Purpose\:\ Return\ the\ array\ of\ all\ cells\ in\ the\ board\n\ @return\ cells\ (Cell[])\n
+comment7.params=
+comment7.target=int\ getNoCells()
+comment7.text=\n\ Purpose\:\ Return\ the\ number\ of\ cells\ in\ the\ board\n\ @return\ NO_CELLS\ (int)\n
+numComments=8
